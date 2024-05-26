@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "rishu-netflix"
+  },
+  "targets": {
+    "rishu-netflix": {
+      "hosting": {
+        "en": [
+          "rishu-drag-drop"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
